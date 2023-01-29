@@ -3,5 +3,6 @@
   "Version": "2.10.0",
   "Icon": "https://i.ibb.co/Qvtpdz6/12367.png",
   "Spigot": "https://www.spigotmc.org/resources/proquests-1-7-1-19-give-players-objectives.18249/",
-  "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/ProQuests-2.10.0-CS-API.jar"
+  "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/ProQuests-2.10.0-CS-API.jar",
+  "Extension": ".jar"
 }
