@@ -5,5 +5,6 @@
   "Spigot": "https://www.spigotmc.org/resources/strikepractice-%E2%80%93-1v1-2v2-bots-fights-pvp-events-parties-build-fights-and-more.46906/",
   "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/StrikePractice-3.6.2-Semify.jar",
   "Source": "",
-  "Extension": ".jar"
+  "Extension": ".jar",
+  "MCVersion" "1.7,1.8,1.9,1.12,1.13,1.14,1.16,1.17,1.18,1.19"
 }
