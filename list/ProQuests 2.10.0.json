@@ -5,5 +5,6 @@
   "Spigot": "https://www.spigotmc.org/resources/proquests-1-7-1-19-give-players-objectives.18249/",
   "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/ProQuests-2.10.0-CS-API.jar",
   "Source": "",
-  "Extension": ".jar"
+  "Extension": ".jar",
+  "MCVersion": "1.7 - 1.18"
 }
