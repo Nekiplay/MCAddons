@@ -1,0 +1,11 @@
+{
+  "Name": "Head Database",
+  "Version": "4.17.0",
+  "Icon": "https://i.ibb.co/c8bfxjy/24686.png",
+  "Spigot": "https://www.spigotmc.org/resources/head-database.14280/",
+  "Extension": ".jar",
+  "MCVersion": null,
+  "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/HeadDatabase-4.17.0.jar",
+  "Source": "",
+  "MCVersion": "1.8 - 1.19"
+}
