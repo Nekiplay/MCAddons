@@ -1,0 +1,11 @@
+{
+  "Name": "PluginManager+",
+  "Version": "2.2.1",
+  "Icon": "https://i.ibb.co/CHK4WKJ/26814.png",
+  "Spigot": "https://www.spigotmc.org/resources/pluginmanager.95171/",
+  "Extension": ".jar",
+  "MCVersion": null,
+  "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/PluginManagerPlus-2.2.1.jar",
+  "Source": "",
+  "MCVersion": "1.7 - 1.19"
+}
