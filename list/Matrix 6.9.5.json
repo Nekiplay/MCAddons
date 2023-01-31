@@ -1,0 +1,11 @@
+{
+  "Name": "Matrix",
+  "Version": "6.9.5",
+  "Icon": "https://i.ibb.co/s6ZLz9r/25.png",
+  "Spigot": "",
+  "Extension": ".jar",
+  "MCVersion": null,
+  "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/Matrix_6.9.5.jar",
+  "Source": "",
+  "MCVersion": "1.8 - 1.16"
+}
