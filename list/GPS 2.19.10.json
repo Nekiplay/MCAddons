@@ -1,0 +1,11 @@
+{
+  "Name": "GPS",
+  "Version": "2.19.10",
+  "Icon": "https://i.ibb.co/566G4jL/53672.png",
+  "Spigot": "https://www.spigotmc.org/resources/gps-1-9-1-19-global-positioning-system-for-your-server.53672/",
+  "Extension": ".jar",
+  "MCVersion": null,
+  "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/GPS%202.19.10.jar",
+  "Source": "",
+  "MCVersion" "1.8 - 1.17"
+}
