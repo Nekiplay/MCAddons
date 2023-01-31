@@ -1,0 +1,10 @@
+{
+  "Name": "Vulcan AntiCheat",
+  "Version": "2.7.0",
+  "Icon": "https://i.ibb.co/nBYkPW4/83626.png",
+  "Spigot": "https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-3.83626/",
+  "Extension": ".jar",
+  "MCVersion": "1.7 - 1.19",
+  "Download": "https://github.com/Nekiplay/MCAddons/raw/main/files/Vulcan-2.7.0.jar",
+  "Source": ""
+}
